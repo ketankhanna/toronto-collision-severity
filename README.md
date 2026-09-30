@@ -20,3 +20,6 @@ Toronto Police Service **KSI (Killed or Seriously Injured)** collisions, publish
 
 ## Tech
 Python · pandas · scikit-learn · seaborn · matplotlib
+
+## Write-Up
+- [Final presentation](docs/Final_Presentation.pdf) (team)
